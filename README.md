@@ -1,2 +1,2 @@
 # Biblioteca Eletrônica [Professora]
-Código para a Atividade da Professora
+Código de Referência para a Professora
